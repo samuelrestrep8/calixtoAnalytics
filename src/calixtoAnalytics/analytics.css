@@ -1,0 +1,20 @@
+html.an-hide-page-scrollbar, html.an-hide-page-scrollbar body { scrollbar-width: none; -ms-overflow-style: none; }
+html.an-hide-page-scrollbar::-webkit-scrollbar, html.an-hide-page-scrollbar body::-webkit-scrollbar { display: none; }
+
+/* Modo claro del módulo Analytics */
+.an-light { background: #f1f5f9 !important; color: #0f172a !important; }
+.an-light section, .an-light .backdrop-blur-xl { background: rgba(255,255,255,0.85) !important; border-color: rgba(15,23,42,0.1) !important; }
+.an-light .text-slate-100 { color: #0f172a !important; }
+.an-light .text-slate-300 { color: #334155 !important; }
+.an-light .text-slate-400 { color: #64748b !important; }
+.an-light .text-cyan-200, .an-light .text-cyan-300\/80 { color: #0369a1 !important; }
+.an-light .text-amber-200, .an-light .text-amber-300 { color: #b45309 !important; }
+.an-light .text-emerald-300 { color: #047857 !important; }
+.an-light .text-violet-300 { color: #6d28d9 !important; }
+.an-light .text-orange-300 { color: #c2410c !important; }
+.an-light .text-rose-300, .an-light .text-rose-200 { color: #be123c !important; }
+.an-light select, .an-light input, .an-light .bg-slate-800\/70, .an-light .bg-slate-800\/40 { background: #ffffff !important; color: #0f172a !important; border-color: rgba(15,23,42,0.15) !important; }
+.an-light thead.sticky, .an-light .bg-slate-800\/95, .an-light .bg-slate-800\/90 { background: #e2e8f0 !important; }
+.an-light .bg-slate-700\/70 { background: #e2e8f0 !important; color: #334155 !important; }
+.an-light tr.border-t, .an-light .border-white\/5, .an-light .border-white\/10 { border-color: rgba(15,23,42,0.08) !important; }
+.an-light .hover\:bg-white\/5:hover { background: rgba(15,23,42,0.04) !important; }

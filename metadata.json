@@ -1,0 +1,6 @@
+{
+  "name": "CALLiSTO Analytics",
+  "description": "Módulo independiente de analítica predictiva y planeación inteligente de inventario para CALLiSTO con motor Random Forest de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
